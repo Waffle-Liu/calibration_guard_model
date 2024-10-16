@@ -1,5 +1,6 @@
 # On Calibration of LLM-based Guard Models for Reliable Content Moderation
 
+This repository contains code and analysis for the paper [On Calibration of LLM-based Guard Models for Reliable Content Moderation](https://arxiv.org/abs/2410.10414).
 
 ## Overview
 

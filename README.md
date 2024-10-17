@@ -33,7 +33,17 @@ bash ./run_eval_model_dep.sh
 
 In the script `./run_eval_model_dep.sh`, experiments are only carried out for **reponse classification** on **harmbench-adv-model** (subsets of the harmbench-adv set). You can only modify the config, `cls_path`: guard model card to be examined, `cal_method`: calibration method (provide additional temperature value for `ts`). 
 
- 
+
+## Citation
+
+```
+@article{liu2024calibration,
+  title={On Calibration of LLM-based Guard Models for Reliable Content Moderation},
+  author={Liu, Hongfu and Huang, Hengguan and Wang, Hao and Gu, Xiangming and Wang, Ye},
+  journal={arXiv preprint arXiv:2410.10414},
+  year={2024}
+}
+```
 
 ## Acknowledgements 
 
